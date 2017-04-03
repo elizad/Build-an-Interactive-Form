@@ -12,8 +12,7 @@ Set focus on the first text field. When the page loads, give focus to the first 
 
  As a user selects activities to register for, a running total is listed below the list of checkboxes. For example, if the user selects "Main conference" then Total: $200 should appear. If they add 1 workshop the total should change to Total: $900.
 
- When a user selects the "PayPal" payment option, display the Paypal information, and hide the credit card information and the "Bitcoin" information.
-
+ When a user selects the "PayPal" payment option, display the Paypal information, and hide the credit card information.
  Display error messages and don't let the user submit the form if any of these validation errors exist:
 
 Name field can't be empty
