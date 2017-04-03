@@ -1,6 +1,7 @@
 # Build-an-Interactive-Form
 Build an Interactive Form
-<a href = "http://pheonix-soft.com/myprojects/Build-an-Interactive-Form-master/index.html">Live Demo</a> of this project for peer review.
+
+<a href = "http://pheonix-soft.com/myprojects/Build-an-Interactive-Form-master/index.html">Live Demo</a> of this project 
 
 Set focus on the first text field. When the page loads, give focus to the first text field
 
